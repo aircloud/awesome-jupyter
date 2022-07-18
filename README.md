@@ -167,6 +167,7 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 - [variableinspector](https://github.com/lckr/jupyterlab-variableInspector) - Variable inspector extension that shows variables and their values.
 - [vim](https://github.com/jwkvam/jupyterlab-vim) - Vim notebook cell bindings.
 - [voyager](https://github.com/altair-viz/jupyterlab_voyager) - Extension to view CSV and JSON data in [Voyager](http://vega.github.io/voyager/).
+- [jupyterlab_tensorboard_pro](https://github.com/HFAiLab/jupyterlab_tensorboard_pro) - TensorBoard Support for JupyterLab.
 
 ## Testing
 
